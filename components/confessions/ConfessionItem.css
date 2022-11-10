@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Indie+Flower&family=Nanum+Pen+Script&display=swap");
+
+.post {
+  width: 80vw;
+  position: relative;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 16px -8px rgba(56, 23, 23, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  margin: 25px auto;
+  /* background-color: #9c9392; */
+  /* background-image: url("../../assets/doodle5.jpg"); */
+
+  /* background-image: url("https://www.transparenttextures.com/patterns/lined-paper-2.png"); */
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.postWrapper {
+  padding: 10px;
+  /* background-image: url('../../assets//paper.jpg'); */
+}
+
+.postTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postTopLeft {
+  display: flex;
+  align-items: center;
+}
+.postTopRight {
+  display: flex;
+  align-items: center;
+}
+
+.postUsername {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0 10px;
+}
+
+.postDate {
+  font-size: 12px;
+}
+
+.postCenter {
+  margin: 20px 0;
+}
+
+.postImg {
+  margin-top: 20px;
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.postBottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postBottomLeft {
+  display: flex;
+  align-items: center;
+}
+
+.likeIcon {
+  width: 0.1em;
+  height: 0.1em;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.commentIcon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.postLikeCounter {
+  font-size: 15px;
+}
+
+.postText {
+  color: #000000;
+  font-weight: 500;
+  font-size: 1.8rem;
+}
+.bg2{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
