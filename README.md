@@ -1,6 +1,6 @@
 <div id="top"></div>
 <!--
-* Thanks for checking out the bitastik. If you have a suggestion
+* Thanks for checking out stuxnet. If you have a suggestion
 * that would make this better, please fork the repo and create a pull request
 * or simply open an issue with the tag "enhancement".
 * Don't forget to give the project a star!
@@ -60,7 +60,7 @@ WEB DEVELOPMENT (MERN STACK)
 <h3>IDEA</h3>
 <p>With the shift in the mode of learning and our lives being digitalized, the college experience has been nothing but an exhausting experience for all of us. After the voracious college expectation soon turned into disappointment, we decided to come to the following solution.
 
-BITASTIK a social media platform for the students of BIT Mesra to cater to their day-to-day college needs. A culmination of multitudes of ideas and platforms into one.
+STUXNET a social media platform for the students of BIT Mesra to cater to their day-to-day college needs. A culmination of multitudes of ideas and platforms into one.
 
 This app consists of an event to keep each one of you up to date with the latest happenings across the college without the fuss of being added to the newsrooms and various WhatsApp groups. Another key feature includes BIT notes that keep track of your to-do activities and makes your life hassle-free. 
 The most fun and exciting element of this app that catches your attention is the confession page which anonymously posts everything you want, from your daily rants to secret love confessions, thus adding much entertainment to your exhausting e-college life.
@@ -118,10 +118,10 @@ This section list any major frameworks/libraries used in our project. Here are a
 
 <!-- CONTACT -->
 ## Team Members
-
+Adarsh Kumar Singh- adarshaks19@gmail.com
 Anish Gupta - anishgupta700@gmail.com<br>
 Aditya Pandey - adityap1707@gmail.com<br>
-Adarsh Kumar Singh- adarshaks19@gmail.com
+
 <!-- 
 Project Link: [https://github.com/hardikpedia/bitastik](https://github.com/hardikpedia/bitastik) -->
 
