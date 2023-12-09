@@ -48,7 +48,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-https://stuxnet.vercel.app/dashboard
 ## About The Project
 
 
